@@ -217,5 +217,6 @@ for label, color in color_dict.items():
     # Move to the next legend item
     legend_y += legend_spacing
 # Save the surface to a PNG file
+
 output_name = f.split(".")[0]
 surface.write_to_png(f'{output_name}.png')
