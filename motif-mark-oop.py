@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+
+# Author: Tam Ho
+# Collaborator: Sydney Hamilton, Anna Grace Welch
+
 import cairo
 import re
 import argparse
